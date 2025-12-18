@@ -12,7 +12,7 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v4
 
-    - name: hemanthkodaganti
+    - name: venky9922
       uses: docker/login-action@v3
       with:
         username: ${{ secrets.DOCKER_USERNAME }}
