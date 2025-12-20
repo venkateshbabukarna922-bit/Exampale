@@ -1,5 +1,4 @@
 name: Python CI to Docker Hub
-
 on: push
 
 jobs:
